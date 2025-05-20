@@ -2,6 +2,8 @@
 
 A mobile-only story viewer application built with React.js and TypeScript. It features a horizontally scrollable list of stories fetched from an external source -> StoryData , with smooth transitions, manual and automatic navigation, and end-to-end testing using Playwright.
 
+Deployed URL (use on phone for best experience)- https://insta-story-nu.vercel.app/
+
 ---
 
 ## Project Overview
