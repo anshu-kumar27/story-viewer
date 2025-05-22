@@ -40,47 +40,8 @@ This project implements a mobile-first story viewer similar to Instagram Stories
 
    ```bash
    git clone https://github.com/anshu-kumar27/Insta_Story
-   cd ./Insta_Story
+   cd ./story-viewer
    npm install
-   ```
-   
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/anshu-kumar27/Insta_Story
-   cd ./Insta_Story
-   npm install
-   ```
-   
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/anshu-kumar27/Insta_Story
-   cd ./Insta_Story
-   npm install
-   ```
-   
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/anshu-kumar27/Insta_Story
-   cd ./Insta_Story
-   npm install
-   ```
-   
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/anshu-kumar27/Insta_Story
-   cd ./Insta_Story
-   npm install
-   ```
-   
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/anshu-kumar27/Insta_Story
-   cd ./Insta_Story
    ```
 
 2. Install dependencies And Run:
